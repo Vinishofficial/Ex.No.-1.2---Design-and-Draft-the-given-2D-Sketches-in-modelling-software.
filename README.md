@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![image](https://github.com/Vinishofficial/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/146931793/cdc0ddaa-40ef-40c2-a1e1-9f04c7519e13)
+
  
  
  ## RESULT
